@@ -3,7 +3,7 @@ minecraft ngrok shell
 
 Linux :
 
-./run.sh port
+./run.sh [port]
 
 # Windows :
 
